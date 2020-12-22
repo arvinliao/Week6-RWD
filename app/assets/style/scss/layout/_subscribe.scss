@@ -1,0 +1,21 @@
+.bg-subscribe{
+    height: 600px;
+    background-image: url(https://github.com/hexschool/webLayoutTraining1st/blob/master/perfume-week6/index10.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    .form-control-lg{
+      height: calc(1.5em + 36px);
+      padding: 17px 16px;
+      font-size: 1rem;
+      line-height: 1.5;
+      border-radius:4px 0 0 4px;
+      display: block;
+      width: 100%;
+    }
+    .btn-lg{
+      padding: 17px 24px;
+      font-size: 1rem;
+      border-radius:0px!important;
+    }
+  }
